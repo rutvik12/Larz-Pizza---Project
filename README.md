@@ -9,7 +9,7 @@ $ cd LarzPizza Final Version\dist>java -jar LarzPizza.jar
 
 # Screenshots
 
-![alt text](Larz-Pizza---Project/Screenshots/Image 1.gif)
+![alt text](https://github.com/rutvik12/Larz-Pizza---Project/blob/main/Screenshots/Image%201.gif)
 
 # Contributors
 
