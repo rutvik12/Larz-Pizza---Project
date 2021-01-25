@@ -13,6 +13,8 @@ $ cd LarzPizza Final Version\dist>java -jar LarzPizza.jar
 
 ![](https://github.com/rutvik12/Larz-Pizza---Project/blob/main/Screenshots/Image%202.png)
 
+![](https://github.com/rutvik12/Larz-Pizza---Project/blob/main/Screenshots/Image%203.gif)
+
 # Contributors
 
 Rutvik Marakana, Adam Chung, Liam Hardage and Zachary Okwuosa
