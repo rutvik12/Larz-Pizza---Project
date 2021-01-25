@@ -11,3 +11,7 @@ $ cd LarzPizza Final Version\dist>java -jar LarzPizza.jar
 
 ![alt text](Screenshots/Image 1.gif)
 
+# Contributors
+
+Rutvik Marakana, Adam Chung, Liam Hardage and Zachary Okwuosa
+
