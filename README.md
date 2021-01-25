@@ -9,5 +9,5 @@ $ cd LarzPizza Final Version\dist>java -jar LarzPizza.jar
 
 # Screenshots
 
-![alt text](C:\Users\HP\Desktop)
+![alt text](Go.gif)
 
